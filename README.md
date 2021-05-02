@@ -7,5 +7,3 @@
 <h1 align="center">Infinite Scroll</h1>
 
 <p align="center">A JavaScript infinite scroll example</p>
-
-<img src="img/screenshot-infinite.png" alt="Screenshot">
